@@ -14,3 +14,4 @@ A = read_integer()
 B = read_integer()
 X = A + B
 print(str("X = ") + str(X))
+
