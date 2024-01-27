@@ -22,7 +22,7 @@ package Iniciante;
 import java.io.IOException;
 import java.util.Scanner;
 
-public class Bee 1002 {
+public class Beecrowd1002 {
 	
 	public static void main(String[] args) throws IOException {
 		Scanner leitor = new Scanner(System.in);
