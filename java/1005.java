@@ -1,4 +1,4 @@
-ackage Iniciante;
+ackage iniciante;
 
 /*
 
